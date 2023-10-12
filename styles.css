@@ -17,6 +17,7 @@ body{
 	align-items: center;
 }
 #result-card{
+	background-color: #fff;
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
 	width: 585px;
@@ -30,6 +31,7 @@ body{
 }
 
 #summary{
+	background-color: #fff;
 	grid-column-start: 2;
 	grid-column-end: 3;
 	margin-left: 15px;
