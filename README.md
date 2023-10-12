@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Bovett/Result-Summary](https://github.com/Bovett/Result-Summary)
+- Live Site URL: [https://bovett.github.io/Single-Price-Grid/](https://bovett.github.io/Single-Price-Grid/)
 
 ## My process
 
